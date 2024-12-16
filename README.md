@@ -40,7 +40,7 @@ The dataset columns are:
 1. Open the folder containg the files in this project and create a Python virtual environment:
    ```bash
    python -m venv venv
-   source venv/bin/activate  # On Windows, replace this while line just with `venv\Scripts\activate`  (i.e. no `source` part and reverse path slashes)
+   source venv/bin/activate  # On Windows, replace this whole line just with `venv\Scripts\activate`  (i.e. no `source` part and reverse path slashes)
    ```
 
 2. Install Python dependencies:
